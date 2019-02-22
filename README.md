@@ -10,13 +10,18 @@
 <li>
 Setup :</br>
 </li>
+</br>
 sudo apt install dialog
+</br>
 cd ~
+</br>
 git clone https://github.com/javastraat/dmrdbtools.git
+</br>
 cd dmrdbtools
+</br>
 ./bmmenu.bin
 </br>
-
+</br></br>
 <a href="https://github.com/sergev/dmrconfig">dmrconfig, great tool for flashing a lot of DMR HT's</a>
 
 </br>
