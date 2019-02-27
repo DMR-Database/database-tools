@@ -5,7 +5,7 @@
 <hr>
 <h2>Lastest Brandmeister Database Tool</h2>
 <li>
-<a href="https://raw.githubusercontent.com/javastraat/dmrdbtools/master/bmmenu.bin">Database Tool for linux/debian/raspberry</a>
+Database Tool for linux/debian/raspberry
 </li>
 <li>
 Setup :</br>
