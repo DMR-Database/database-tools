@@ -17,14 +17,13 @@ cd ~
 </br>
 git clone https://github.com/javastraat/dmrdbtools.git
 </br>
-cd dmrdbtools
 </br>
 Depending on your OS run :</br>
-cp dmrconfig.debian dmrconfig
+./debian.sh
 </br>or</br>
-cp dmrconfig.raspberry dmrconfig
-then
-run ./bmmenu.debian or ./bmmenu.raspberry depending on your os
+./raspberry.sh
+</br>then</br>
+run ./bmmenu
 </br>
 </br></br>
 <a href="https://github.com/sergev/dmrconfig">dmrconfig, great tool for flashing a lot of DMR HT's</a>
