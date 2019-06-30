@@ -1,4 +1,4 @@
-# Brandmeister User Database for HTs & MTs
+# Brandmeister Database tools for HTs & MTs
 <p align="center">
 <a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
 <br>
