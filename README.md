@@ -1,4 +1,4 @@
-# Brandmeister Database Tools for TYT,Ailunce & Anytone
+# Brandmeister Database Tools for Tytera,Ailunce and Anytone
 <br>
 <p align="center">
 <a href="#english">English</a> - 
@@ -22,7 +22,7 @@
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister database tools for TYT,Ailunce,Anytone & others HTs.
+<h2 id="english">Brandmeister database tools for Tytera,Ailunce and Anytone
 </h2>
 <b>MD380 & MD390</b>
 <br>
@@ -46,7 +46,7 @@ The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 </li>
 <br>
 <hr>
-<h2 id="dutch">Brandmeister UserDB voor TYT,Ailunce,Anytone & andere HTs.
+<h2 id="dutch">Brandmeister UserDB voor Tytera,Ailunce and Anytone
 </h2>
 <b>MD380 & MD390</b>
 <br>
@@ -70,7 +70,7 @@ De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door P
 </li>
 <br>
 <hr>
-<h2 id="german">Brandmeister UserDB für TYT,Ailunce,Anytone & andere HTs.
+<h2 id="german">Brandmeister UserDB für Tytera,Ailunce and Anytone
 </h2>
 <b>MD380 & MD390</b>
 <br>
