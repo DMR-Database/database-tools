@@ -1,4 +1,4 @@
-# Brandmeister UserDB for TYT,Ailunce,Anytone & other HTs.
+# Brandmeister Database Tools for TYT,Ailunce,Anytone and other HTs & MTs
 <p align="center">
 <a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
 <br>
