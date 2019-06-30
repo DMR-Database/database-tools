@@ -69,7 +69,6 @@ De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door P
 <a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
 </li>
 <br>
-Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
 <h2 id="german">Brandmeister UserDB für TYT,Ailunce,Anytone & andere HTs.
 </h2>
@@ -94,7 +93,6 @@ Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifizier
 <a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
 </li>
 <br>
-Fũr MD380-MD390 : Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
 <hr>
 <br>
 <h1 id="helpus">Sorry we did not find your language</h1>
