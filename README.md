@@ -4,7 +4,6 @@
 <br>
 <a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
 <br>
-<a href="https://www.buienradar.nl" target="_blank"><img border="0" src="https://api.buienradar.nl/image/1.0/RadarMapNL?w=300"></a>
 <center>
 <a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
