@@ -1,4 +1,4 @@
-# Brandmeister Database Tools for TYT,Ailunce,Anytone and other HTs & MTs
+# Brandmeister Database Tools for TYT,Ailunce & Anytone
 <br>
 <p align="center">
 <a href="#english">English</a> - 
