@@ -1,12 +1,8 @@
-# Brandmeister User Database for HTs & MTs
+# Brandmeister Database for TYT,Ailunce,Anytone and other HTs & MTs
+<br>
 <p align="center">
-<a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
-<br>
-<a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
-<br>
-<center>
-<a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
+<a href="#dutch">Dutch</a> - 
 <a href="#german">German</a> -
 <a href="#helpus">Mandarin Chinese</a> -
 <a href="#helpus">Hindi</a> -
@@ -16,44 +12,15 @@
 <a href="#helpus">Russian</a> -
 <a href="#helpus">Japanese</a> -
 <a href="#helpus">All others</a>
-</center>
+<br>
 <hr>
-<h2 id="dutch">Brandmeister UserDB voor TYT,Ailunce,Anytone & andere HTs.
-</h2>
-<b>MD380 & MD390</b>
 <br>
-De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
-<li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
-</li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/user.bin">Database voor MD380 & MD390</a>
-</li>
+<p align="center">
+<a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
 <br>
-<b>HD1</b>
+<a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
 <br>
-De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.02 aangepast door PD1LOI.
-<li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
-</li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database voor HD1</a>
-</li>
-<br>
-<b>Anytone</b>
-<br>
-De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door PD1LOI.
-<li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
-</li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database voor Anytone</a>
-</li>
-<br>
-<b>TYT MD-2017</b>
-<br>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database voor TYT MD-2017</a>
-</li>
-<br>
-Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
+</p>
 <hr>
 <h2 id="english">Brandmeister UserDB for TYT,Ailunce,Anytone & others HTs.
 </h2>
@@ -91,6 +58,43 @@ The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 </li>
 <br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
+<hr>
+<h2 id="dutch">Brandmeister UserDB voor TYT,Ailunce,Anytone & andere HTs.
+</h2>
+<b>MD380 & MD390</b>
+<br>
+De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
+<li>
+<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+</li><li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/user.bin">Database voor MD380 & MD390</a>
+</li>
+<br>
+<b>HD1</b>
+<br>
+De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.02 aangepast door PD1LOI.
+<li>
+<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+</li><li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database voor HD1</a>
+</li>
+<br>
+<b>Anytone</b>
+<br>
+De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door PD1LOI.
+<li>
+<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+</li><li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database voor Anytone</a>
+</li>
+<br>
+<b>TYT MD-2017</b>
+<br>
+<li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database voor TYT MD-2017</a>
+</li>
+<br>
+Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
 <h2 id="german">Brandmeister UserDB für TYT,Ailunce,Anytone & andere HTs.
 </h2>
