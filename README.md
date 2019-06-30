@@ -1,4 +1,4 @@
-# Brandmeister Database Tools for Tytera,Ailunce and Anytone
+# Brandmeister database tools for Tytera,Ailunce and Anytone
 <br>
 <p align="center">
 <a href="#english">English</a> - 
