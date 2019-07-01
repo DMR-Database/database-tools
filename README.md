@@ -90,11 +90,11 @@ Das TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert, kan verwe
 <br><br>
 <b>Ailunce HD1</b>
 <br>
-Das Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden/flashen.
+Das Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br><br>
 <b>Anytone</b>
 <br>
-Das Anytone AdresTool v1.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden/flashen.
+Das Anytone AdresTool v1.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br>
 <hr>
 <h1 id="helpus">Sorry we did not find your language</h1>
