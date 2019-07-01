@@ -58,7 +58,7 @@ The Anytone AdresTool v1.00 modified by PD1LOI, can be used to download the late
 </li>
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
-</li><br>
+</li>
 <br>
 <b>Tytera MD380 & MD390</b>
 <br>
