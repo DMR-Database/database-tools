@@ -97,8 +97,6 @@ Das Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert, kan verwendet werden um 
 Das Anytone AdresTool v1.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br>
 <hr>
-<br>
-<center>
 <h1 id="helpus">Sorry we did not find your language</h1>
 <br>
 Your language here ? send us the text :)
