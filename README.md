@@ -75,26 +75,27 @@ De Anytone AdresTool v1.00 aangepast door PD1LOI, kan worden gebruikt om de laat
 <hr>
 <h2 id="german">Brandmeister database tools für Tytera,Ailunce and Anytone
 </h2>
-<b>MD380 & MD390</b>
-<br>
-Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
 </li>
-<br>
-<b>HD1</b>
-<br>
-Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
 </li>
-<br>
-<b>Anytone</b>
-<br>
-Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
 </li>
+<br>
+<b>Tytera MD380 & MD390</b>
+<br>
+Das TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database zu downloaden/flashen.
+<br>
+<b>Ailunce HD1</b>
+<br>
+Das Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden/flashen.
+<br>
+<b>Anytone</b>
+<br>
+Das Anytone AdresTool v1.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden/flashen.
 <br>
 <hr>
 <br>
