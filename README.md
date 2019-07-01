@@ -27,10 +27,10 @@
 </h2>
 <b>Tytera MD380 & MD390</b>
 <br>
-The TyteraFlashTool v1.04a KD4Z made by KG5RKI and modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
 </li>
+<br>The TyteraFlashTool v1.04a KD4Z made by KG5RKI and modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
 <br>
 <b>Ailunce HD1</b>
 <br>
