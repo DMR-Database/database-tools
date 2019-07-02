@@ -25,38 +25,38 @@
 <h2 id="english">Brandmeister database tools for Tytera, Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar">Anytone AdresTool v 2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
 <br>
-The TyteraFlashTool v1.04a KD4Z made by KG5RKI and modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
+The TyteraFlashTool v2.00 KD4Z made by KG5RKI and modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
 <br><br>
 <b>Ailunce HD1</b>
 <br>
-The Ailunce HD1 AdresTool v1.02 modified by PD1LOI, can be used to download the latest user database.
+The Ailunce HD1 AdresTool v2.00 modified by PD1LOI, can be used to download the latest user database.
 <br><br>
 <b>Anytone</b>
 <br>
-The Anytone AdresTool v1.00 modified by PD1LOI, can be used to download the latest user database.
+The Anytone AdresTool v2.00 modified by PD1LOI, can be used to download the latest user database.
 <br>
 <hr>
 <h2 id="dutch">Brandmeister database tools voor Tytera,Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar">Anytone AdresTool v 2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
@@ -75,13 +75,13 @@ De Anytone AdresTool v1.00 aangepast door PD1LOI, kan worden gebruikt om de laat
 <h2 id="german">Brandmeister database tools für Tytera,Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar">Anytone AdresTool v 2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
