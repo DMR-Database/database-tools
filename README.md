@@ -25,7 +25,7 @@
 <h2 id="english">Brandmeister database tools for Tytera, Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
@@ -50,7 +50,7 @@ The Anytone AdresTool v2.00 modified by PD1LOI, can be used to download the late
 <h2 id="dutch">Brandmeister database tools voor Tytera,Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
@@ -75,7 +75,7 @@ De Anytone AdresTool v1.00 aangepast door PD1LOI, kan worden gebruikt om de laat
 <h2 id="german">Brandmeister database tools für Tytera,Ailunce and Anytone
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar">TyteraFlashTool v2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar">Ailunce HD1 AdresTool v2.00</a>
