@@ -31,7 +31,7 @@
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v 2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
@@ -56,7 +56,7 @@ The Anytone AdresTool v2.00 modified by PD1LOI, can be used to download the late
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v 2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
@@ -81,7 +81,7 @@ De Anytone AdresTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laat
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v 2.00</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v2.00</a>
 </li>
 <br>
 <b>Tytera MD380 & MD390</b>
