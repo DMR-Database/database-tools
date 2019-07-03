@@ -47,7 +47,7 @@ The Ailunce HD1 AdresTool v2.00 modified by PD1LOI, can be used to download the 
 The Anytone AdresTool v2.00 modified by PD1LOI, can be used to download the latest user database.
 <br>
 <hr>
-<h2 id="dutch">Brandmeister database tools voor Tytera,Ailunce and Anytone
+<h2 id="dutch">Brandmeister database tools voor Tytera, Ailunce en Anytone
 </h2>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
@@ -72,7 +72,7 @@ De Ailunce HD1 AdresTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de 
 De Anytone AdresTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden.
 <br>
 <hr>
-<h2 id="german">Brandmeister database tools für Tytera,Ailunce and Anytone
+<h2 id="german">Brandmeister database tools für Tytera, Ailunce und Anytone
 </h2>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
