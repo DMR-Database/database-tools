@@ -126,7 +126,7 @@ Das Anytone AdresTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die 
 <br>
 Das TyteraFlashTool v2.00 KD4Z von KG5RKI und von PD1LOI modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database zu downloaden/flashen.
 <br><br>
-Das UserDB FlashTool v2.00 mini von PD1LOI modifiziert, kan verwendet werden um die die letzte user database zu downloaden und flashen.
+Das UserDB FlashTool v2.00 mini von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden und flashen.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
