@@ -56,7 +56,7 @@ The UserDB FlashTool v2.00 mini modified by PD1LOI, can be used to download and 
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-The Tytera-2017 UserDbTool v2.00 modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
+The Tytera-2017 UserDbTool v2.00 modified by PD1LOI, can be used to download the latest user database.
 <br>
 <hr>
 <h2 id="dutch">Brandmeister database tools voor Ailunce, Anytone en Tytera
@@ -93,7 +93,7 @@ De UserDB FlashTool v2.00 mini aangepast door PD1LOI, kan worden gebruikt om de 
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-De Tytera-2017 UserDbTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden en flashen.
+De Tytera-2017 UserDbTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden.
 <br>
 <hr>
 <h2 id="german">Brandmeister database tools für Ailunce, Anytone und Tytera
@@ -130,7 +130,7 @@ Das UserDB FlashTool v2.00 mini von PD1LOI modifiziert, kan verwendet werden um 
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-Das Tytera-2017 UserDbTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die die letzte user database zu downloaden und flashen.
+Das Tytera-2017 UserDbTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br>
 <hr>
 <h1 id="helpus">Sorry we did not find your language</h1>
