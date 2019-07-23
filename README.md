@@ -20,8 +20,6 @@
 <br>
 <a href="https://www.wimo.com" target="_blank"><img src="img/wimo_logo_new2019.jpg" width="360"></a>
 <br>
-<a href="https://github.com/BM-Database/database-tools" target="_blank"><img src="img/frame.png" width="360"></a>
-<br>  
 </p>
 <hr>
 <h2 id="english">Brandmeister database tools for Ailunce, Anytone and Tytera 
