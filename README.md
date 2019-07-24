@@ -56,7 +56,7 @@ The UserDB FlashTool v2.00 mini modified by the BrandMeister Database Team, can 
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-The Tytera-2017 UserDbTool v2.00 modified by PD1LOI, can be used to download the latest user database.
+The Tytera-2017 UserDbTool v2.00 modified by the BrandMeister Database Team, can be used to download the latest user database.
 <br>
 <hr>
 <h2 id="dutch">Brandmeister database tools voor Ailunce, Anytone en Tytera
