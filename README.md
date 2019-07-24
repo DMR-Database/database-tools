@@ -42,17 +42,17 @@
 <br>
 <b>Ailunce HD1</b>
 <br>
-The Ailunce HD1 AdresTool v2.00 modified by PD1LOI, can be used to download the latest user database.
+The Ailunce HD1 AdresTool v2.00 modified by the BrandMeister Database Team, can be used to download the latest user database.
 <br><br>
 <b>Anytone</b>
 <br>
-The Anytone AdresTool v2.00 modified by PD1LOI, can be used to download the latest user database.
+The Anytone AdresTool v2.00 modified by the BrandMeister Database Team, can be used to download the latest user database.
 <br><br>
 <b>Tytera MD380 & MD390</b>
 <br>
-The TyteraFlashTool v2.00 KD4Z made by KG5RKI and modified by PD1LOI, can be used to download/flash firmware and to download/flash the latest user database.
+The TyteraFlashTool v2.00 KD4Z made by KG5RKI and modified by the BrandMeister Database Team, can be used to download/flash firmware and to download/flash the latest user database.
 <br><br>
-The UserDB FlashTool v2.00 mini modified by PD1LOI, can be used to download and flash the latest user database.
+The UserDB FlashTool v2.00 mini modified by the BrandMeister Database Team, can be used to download and flash the latest user database.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
@@ -79,21 +79,21 @@ The Tytera-2017 UserDbTool v2.00 modified by PD1LOI, can be used to download the
 <br>
 <b>Ailunce HD1</b>
 <br>
-De Ailunce HD1 AdresTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden.
+De Ailunce HD1 AdresTool v2.00 aangepast door het BrandMeister Database Team, kan worden gebruikt om de laatste user database te downloaden.
 <br><br>
 <b>Anytone</b>
 <br>
-De Anytone AdresTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden.
+De Anytone AdresTool v2.00 aangepast door het BrandMeister Database Team, kan worden gebruikt om de laatste user database te downloaden.
 <br><br>
 <b>Tytera MD380 & MD390</b>
 <br>
-De TyteraFlashTool v2.00 KD4Z van KG5RKI en aangepast door PD1LOI, kan worden gebruikt om firmware te downloaden/flashen en laatste user database te downloaden/flashen.
+De TyteraFlashTool v2.00 KD4Z van KG5RKI en aangepast door het BrandMeister Database Team, kan worden gebruikt om firmware te downloaden/flashen en laatste user database te downloaden/flashen.
 <br><br>
-De UserDB FlashTool v2.00 mini aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden en flashen.
+De UserDB FlashTool v2.00 mini aangepast door het BrandMeister Database Team, kan worden gebruikt om de laatste user database te downloaden en flashen.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-De Tytera-2017 UserDbTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de laatste user database te downloaden.
+De Tytera-2017 UserDbTool v2.00 aangepast door het BrandMeister Database Team, kan worden gebruikt om de laatste user database te downloaden.
 <br>
 <hr>
 <h2 id="german">Brandmeister database tools für Ailunce, Anytone und Tytera
@@ -116,21 +116,21 @@ De Tytera-2017 UserDbTool v2.00 aangepast door PD1LOI, kan worden gebruikt om de
 <br>
 <b>Ailunce HD1</b>
 <br>
-Das Ailunce HD1 AdresTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
+Das Ailunce HD1 AdresTool v2.00 von das BrandMeister Database Team modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br><br>
 <b>Anytone</b>
 <br>
-Das Anytone AdresTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
+Das Anytone AdresTool v2.00 von das BrandMeister Database Team modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br><br>
 <b>Tytera MD380 & MD390</b>
 <br>
-Das TyteraFlashTool v2.00 KD4Z von KG5RKI und von PD1LOI modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database zu downloaden/flashen.
+Das TyteraFlashTool v2.00 KD4Z von KG5RKI und von das BrandMeister Database Team modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database zu downloaden/flashen.
 <br><br>
-Das UserDB FlashTool v2.00 mini von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden und flashen.
+Das UserDB FlashTool v2.00 mini von das BrandMeister Database Team modifiziert, kan verwendet werden um die letzte user database zu downloaden und flashen.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-Das Tytera-2017 UserDbTool v2.00 von PD1LOI modifiziert, kan verwendet werden um die letzte user database zu downloaden.
+Das Tytera-2017 UserDbTool v2.00 von das BrandMeister Database Team modifiziert, kan verwendet werden um die letzte user database zu downloaden.
 <br>
 <hr>
 <h1 id="helpus">Sorry we did not find your language</h1>
