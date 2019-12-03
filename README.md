@@ -74,63 +74,63 @@ The Tytera-2017 UserDbTool v2.00 by the DMR User Database Team, can be used to d
 <a href="https://github.com/BM-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00-mini-NL.rar">UserDB FlashTool v2.00 mini</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Tytera-2017%20UserDbTool%20-%202.00.rar?raw=true">Tytera-2017 UserDbTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/blob/master/Tytera-2017%20UserDbTool%20-%202.00.rar?raw=true">Tytera-2017 UserDbTool v2.00</a>
 </li>
 <br>
 <b>Ailunce HD1</b>
 <br>
-De Ailunce HD1 AdresTool v2.00 van het BrandMeister User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
+De Ailunce HD1 AdresTool v2.00 van het DMR User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
 <br><br>
 <b>Anytone</b>
 <br>
-De Anytone AdresTool v2.00 van het BrandMeister User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
+De Anytone AdresTool v2.00 van het DMR User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
 <br><br>
 <b>Tytera MD380 & MD390</b>
 <br>
-De TyteraFlashTool v2.00 KD4Z van KG5RKI en aangepast door het BrandMeister User Database Team, kan worden gebruikt om firmware te downloaden/flashen en laatste user database direct van github te downloaden/flashen.
+De TyteraFlashTool v2.00 KD4Z van KG5RKI en aangepast door het DMR User Database Team, kan worden gebruikt om firmware te downloaden/flashen en laatste user database direct van github te downloaden/flashen.
 <br><br>
-De UserDB FlashTool v2.00 mini van het BrandMeister User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden en flashen.
+De UserDB FlashTool v2.00 mini van het DMR User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden en flashen.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-De Tytera-2017 UserDbTool v2.00 van het BrandMeister User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
+De Tytera-2017 UserDbTool v2.00 van het DMR User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
 <br>
 <hr>
 <h2 id="german">DMR user database tools für Ailunce, Anytone und Tytera
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00-mini-NL.rar">UserDB FlashTool v2.00 mini</a>
+<a href="https://github.com/DMR-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00-mini-NL.rar">UserDB FlashTool v2.00 mini</a>
 </li>
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Tytera-2017%20UserDbTool%20-%202.00.rar?raw=true">Tytera-2017 UserDbTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/blob/master/Tytera-2017%20UserDbTool%20-%202.00.rar?raw=true">Tytera-2017 UserDbTool v2.00</a>
 </li>
 <br>
 <b>Ailunce HD1</b>
 <br>
-Das Ailunce HD1 AdresTool v2.00 von dem BrandMeister User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
+Das Ailunce HD1 AdresTool v2.00 von dem DMR User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
 <br><br>
 <b>Anytone</b>
 <br>
-Das Anytone AdresTool v2.00 von dem BrandMeister User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
+Das Anytone AdresTool v2.00 von dem DMR User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
 <br><br>
 <b>Tytera MD380 & MD390</b>
 <br>
-Das TyteraFlashTool v2.00 KD4Z von KG5RKI und von dem BrandMeister User Database Team modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database direkt von github zu downloaden/flashen.
+Das TyteraFlashTool v2.00 KD4Z von KG5RKI und von dem DMR User Database Team modifiziert, kan verwendet werden um die firmware zu downloaden/flashen und die letzte user database direkt von github zu downloaden/flashen.
 <br><br>
-Das UserDB FlashTool v2.00 mini von dem BrandMeister User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden und flashen.
+Das UserDB FlashTool v2.00 mini von dem DMR User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden und flashen.
 <br><br>
 <b>Tytera MD-2017</b>
 <br>
-Das Tytera-2017 UserDbTool v2.00 von dem BrandMeister User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
+Das Tytera-2017 UserDbTool v2.00 von dem DMR User Database Team, kan verwendet werden um die letzte user database direkt von github zu downloaden.
 <br>
 <hr>
 <h1 id="helpus">Sorry we did not find your language</h1>
