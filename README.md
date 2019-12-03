@@ -96,7 +96,7 @@ De UserDB FlashTool v2.00 mini van het BrandMeister User Database Team, kan word
 De Tytera-2017 UserDbTool v2.00 van het BrandMeister User Database Team, kan worden gebruikt om de laatste user database direct van github te downloaden.
 <br>
 <hr>
-<h2 id="german">Brandmeister database tools für Ailunce, Anytone und Tytera
+<h2 id="german">DMR user database tools für Ailunce, Anytone und Tytera
 </h2>
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
