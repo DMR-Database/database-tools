@@ -32,7 +32,7 @@
 <a href="https://github.com/DMR-Database/database-tools/raw/master/TyteraFlashTool%20v2.00a-KD4Z.rar">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/DMR-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00-mini-NL.zip">UserDB FlashTool v2.00 mini</a>
+<a href="https://github.com/DMR-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00a-mini.zip">UserDB FlashTool v2.00 mini</a>
 </li>
 <li>
 <a href="https://github.com/DMR-Database/database-tools/raw/master/Tytera-2017%20UserDbTool%20-%202.00a.zip">Tytera-2017 UserDbTool v2.00</a>
@@ -96,6 +96,7 @@ De Tytera-2017 UserDbTool v2.00 van het DMR User Database Team, kan worden gebru
 <hr>
 <h2 id="german">DMR user database tools für Ailunce, Anytone und Tytera
 </h2>
+
 <li>
 <a href="https://github.com/DMR-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%202.00a.zip?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
@@ -106,7 +107,7 @@ De Tytera-2017 UserDbTool v2.00 van het DMR User Database Team, kan worden gebru
 <a href="https://github.com/DMR-Database/database-tools/raw/master/TyteraFlashTool%20v2.00a-KD4Z.rar">TyteraFlashTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/DMR-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00-mini-NL.zip">UserDB FlashTool v2.00 mini</a>
+<a href="https://github.com/DMR-Database/database-tools/raw/master/UserDB-FlashTool-v%202.00a-mini.zip">UserDB FlashTool v2.00 mini</a>
 </li>
 <li>
 <a href="https://github.com/DMR-Database/database-tools/raw/master/Tytera-2017%20UserDbTool%20-%202.00a.zip">Tytera-2017 UserDbTool v2.00</a>
