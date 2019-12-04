@@ -26,7 +26,7 @@
 <a href="https://github.com/DMR-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%202.00a.zip?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
 <li>
-<a href="https://github.com/DMR-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.zip?raw=true">Anytone AdresTool v2.00</a>
+<a href="https://github.com/DMR-Database/database-tools/raw/master/Anytone%20AdresTool%20v%202.00a.zip">Anytone AdresTool v2.00</a>
 </li>
 <li>
 <a href="https://github.com/DMR-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.zip?raw=true">TyteraFlashTool v2.00</a>
